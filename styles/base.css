@@ -129,6 +129,8 @@ section#contact{
     animation: fadein 5s;
   }
 
+  /*The main theme colours are blue, pink, and skyblue */
+  
 footer{
     text-align: center;
     background-image: linear-gradient(white,#bfe9ff)

@@ -142,7 +142,13 @@ section#contact{
     animation: fadein 5s;
   }
 
-  /*The main theme colours are blue, pink, and skyblue */
+/* incrementing counting numbers color change */
+.even {
+    color: blue;
+}
+.odd {
+    color: red;
+}
 
 footer{
     text-align: center;
